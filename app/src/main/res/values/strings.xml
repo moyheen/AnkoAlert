@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anko Dialog Test</string>
+    <string name="some_title">Some Title</string>
+    <string name="some_message">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</string>
+    <string name="hint">Label</string>
+    <string name="cancel_label">CANCEL</string>
+    <string name="submit">SUBMIT FEEDBACK</string>
+    <string name="confirmation">Your feedback %s has been recorded.</string>
+</resources>
